@@ -9,7 +9,7 @@
     "SubSkillName" : "Apprentice Medic",
     "SubSkill" : "Increases HP restored from all sources by 18% (Max 36%); Enemies are 16% (Max 32%) more likely to drop Potions upon death.",
     "MainSkillName" : "Ninja Art: Healing Hands",
-    "MainSkillActive" : "Removes 1 debuff, immediately restores 14% (Max 28%) of your lost HP.",
+    "MainSkillActive" : "Removes 1 (Max 3) debuff, immediately restores 14% (Max 28%) of your lost HP.",
     "MainSkillPassive" : false,
     "CD" : 61
   }

@@ -9,7 +9,7 @@
     "SubSkillName" : "Playful Punisher",
     "SubSkill" : "Increases damage dealt to snared enemies by 15% (Max 30%).",
     "MainSkillName" : "Shadow Art: Dual Dervish ",
-    "MainSkillActive" : "Conjures shadow thorns that snare all enemies for 5 (Max 10) seconds; gains more Particles from normal attacks for the duration.",
+    "MainSkillActive" : "Conjures shadow thorns that snare all enemies for 5 (Max 8) seconds; gains more Particles from normal attacks for the duration.",
     "MainSkillPassive" : false,
     "CD" : 60
   }

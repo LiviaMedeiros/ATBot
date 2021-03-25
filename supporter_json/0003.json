@@ -9,7 +9,7 @@
     "SubSkillName" : "Wave Art: Guardian",
     "SubSkill" : "When HP drops to 0, restores 25% (Max 50%) of maximum HP only once and reduces damage taken from all enemies by 35% (Max 70%) for 12 (Max 24) seconds.",
     "MainSkillName" : "Power Engage",
-    "MainSkillActive" : "Removes 1 (Max 2) debuffs, stuns, and groggy; becomes invulnerable for 8 (Max 16) seconds.",
+    "MainSkillActive" : "Removes 1 (Max 3) debuffs, stuns, and groggy; becomes invulnerable for 8 (Max 16) seconds.",
     "MainSkillPassive" : false,
     "CD" : 51
   }
